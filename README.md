@@ -29,6 +29,8 @@ MCQ-Generator/
 └── .streamlit/
     └── secrets.toml
 ```
+## Workflow
+
 flowchart TD
     A[👤 User] --> B[Enter Topic]
     B --> C[Select Number of Questions]
