@@ -63,7 +63,8 @@ The generated questions, options, and correct answers are displayed in the appli
 
 ## Installation and Setup
 
-```1. Clone the Repository
+```
+1. Clone the Repository
 git clone https://github.com/srudhyasankaranarayanan/MCQ-Generator.git
 
 2. Navigate to the Project Directory
