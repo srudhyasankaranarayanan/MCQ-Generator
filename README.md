@@ -3,7 +3,8 @@
 This is an AI-based MCQ Generator project made using Python, Streamlit, and Hugging Face.
 
 It helps users generate multiple-choice questions by entering a topic and selecting the number of questions they want.
-
+**Live Link:**
+https://mcq-generator-abhkfjdhufvngkya97ns4q.streamlit.app/
 ## Features
 
 * Generate MCQs using AI
@@ -114,6 +115,11 @@ Subject-wise knowledge testing
 * Add difficulty levels
 * Download questions as PDF
 * Model name: **openai/gpt-oss-120b**
+
+## Screenshots
+<img width="1500" height="531" alt="Screenshot 2026-09-17 212643" src="https://github.com/user-attachments/assets/86dde178-d18a-400c-9640-c0c4e19a45c3" />
+<img width="707" height="502" alt="image" src="https://github.com/user-attachments/assets/a6e5fc26-6bd9-4fee-8a56-de2e326d367c" />
+<img width="822" height="594" alt="image" src="https://github.com/user-attachments/assets/e907691a-081b-4166-8cd9-a6a4f476d264" />
 
 ## Purpose
 
