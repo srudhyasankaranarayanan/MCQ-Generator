@@ -29,8 +29,9 @@ MCQ-Generator/
 └── .streamlit/
     └── secrets.toml
 ```
-## Workflow
+## 🔄 Workflow
 
+```mermaid
 flowchart TD
     A[👤 User] --> B[Enter Topic]
     B --> C[Select Number of Questions]
@@ -40,12 +41,8 @@ flowchart TD
     F --> G[Generate MCQs]
     G --> H[Questions + 4 Options + Correct Answers]
     H --> I[📋 Display Results in Streamlit]
+```
 
-    style A fill:#e3f2fd,stroke:#1976d2
-    style D fill:#fff3e0,stroke:#f57c00
-    style E fill:#f3e5f5,stroke:#7b1fa2
-    style F fill:#e8f5e9,stroke:#388e3c
-    style I fill:#ffebee,stroke:#d32f2f
 
 ## How to Run
 
